@@ -1,1 +1,2 @@
-print("Python environment setup successful!")sss
+print("Python environment setup successful!")
+print("test test test")  
