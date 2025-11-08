@@ -25,4 +25,4 @@ sub_result = subtract(num1, num2)
 mul_result = multiply(num1 , num2)
 div_result = divide(num1 , num2)
 
-print(f"Addition: {sum_result} \nSubtraction: {sub_result} \nMultiplication{mul_result} \nDivision:{div_result}")
+print(f"Addition: {sum_result} \nSubtraction: {sub_result} \nMultiplication: {mul_result} \nDivision: {div_result}")
