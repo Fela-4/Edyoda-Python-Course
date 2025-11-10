@@ -6,7 +6,7 @@ rand_number = random.randint(1,100) # Random number
 quit = False # Flag to quit from loop
 correct = False # Flag to announce result after loop
 
-print("Eneter a number between 1-100\n")
+print("Enter a number between 1-100\n")
 
 for chance in range(7, 0, -1): # Loop iteration in reverse(-ve)
     print(f"You have {chance} chances remaining!")
